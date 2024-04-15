@@ -14,7 +14,8 @@
            ORGANIZATION IS LINE SEQUENTIAL
            ACCESS MODE IS SEQUENTIAL
            FILE STATUS IS REC-ASSU-STATUS.
-     
+
+       
        DATA DIVISION.
        FILE SECTION.
        FD REC-ASSU
